@@ -18,7 +18,7 @@
   <img alt="Coder GIF" height=300 width=550 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </p>
 
--
+---
 
 ## 👨‍💻 About Me
 - 💻 Full Stack Developer (Laravel, PHP, MySQL)
