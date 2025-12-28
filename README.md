@@ -31,7 +31,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" width="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
     <img src="https://skillicons.dev/icons?i=css" width="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
