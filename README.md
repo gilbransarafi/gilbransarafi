@@ -34,7 +34,7 @@
   <a href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
     <img src="https://skillicons.dev/icons?i=css" width="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
     <img src="https://skillicons.dev/icons?i=js" width="40"/>
   </a>
   <a href="https://www.php.net/" target="_blank">
@@ -74,3 +74,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbransarafi&layout=compact&theme=tokyonight" />
 </p>
+
+---
