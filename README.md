@@ -18,11 +18,9 @@
   <img alt="Coder GIF" height=300 width=550 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </p>
 
----
-
 ## 👨‍💻 About Me
-- 💻 Full Stack Developer (Laravel, PHP, MySQL)
-- 📊 Building **Posyandu Pintar** Web System
+- 💻 I am a Full Stack Developer  from Indonesia.
+- 📊 I am an IT student and I contribute to frontend and backend to build web applications.
 - 🎓 Information Technology Student
 - 📖 Love learning & reading tech articles
 
