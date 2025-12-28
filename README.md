@@ -1,4 +1,4 @@
-<!-- GIF KECIL (ICON ATAS) -->
+<!-- HERO SECTION (MINIMAL, TANPA GARIS) -->
 <p align="center">
   <img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"
        width="200"
@@ -6,15 +6,6 @@
 </p>
 
 <h1 align="center">hey there 👋</h1>
-
-<p align="center">
-  <b>I'm Gilbran Sarafi</b><br/>
-  Full Stack Web Developer from Indonesia 🇮🇩
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gilbransarafi&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gilbran-sarafi-0a708432b/" target="_blank">
