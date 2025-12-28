@@ -18,7 +18,7 @@
   <img alt="Coder GIF" height=300 width=550 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </p>
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 - 💻 I am a Full Stack Developer  from Indonesia.
 - 📊 I am an IT student and I contribute to frontend and backend to build web applications.
 - 🎓 Information Technology Student
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧰 Languages and Tools
+🧰 Languages and Tools
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,tailwind" />
 </p>
