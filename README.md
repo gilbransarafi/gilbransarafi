@@ -1,6 +1,8 @@
 <!-- GIF KECIL (ICON ATAS) -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="200" />
+  <img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"
+       width="200"
+       alt="Coding Animation" />
 </p>
 
 <h1 align="center">hey there 👋</h1>
