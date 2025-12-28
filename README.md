@@ -24,7 +24,7 @@
 
 <!-- GIF BESAR (GAMBAR UTAMA) -->
 <p align="center">
-  <img alt="Coder GIF" height=400 width=600 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+  <img alt="Coder GIF" height=400 width=500 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </p>
 
 ---
