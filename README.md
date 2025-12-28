@@ -6,11 +6,11 @@
 </p>
 
 <h1 align="center">hey there 👋</h1>
+ <a href="https://www.linkedin.com/in/gilbran-sarafi-0a708432b/" target="_blank">
+ </a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gilbran-sarafi-0a708432b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
 </p>
 
 <!-- GIF BESAR (GAMBAR UTAMA) -->
