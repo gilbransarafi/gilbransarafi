@@ -24,7 +24,7 @@
 
 <!-- GIF BESAR (GAMBAR UTAMA) -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="550" />
+  <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </p>
 
 ---
