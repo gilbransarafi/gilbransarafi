@@ -1,3 +1,8 @@
+<!-- GIF KECIL (ICON ATAS) -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="200" />
+</p>
+
 <h1 align="center">hey there 👋</h1>
 
 <p align="center">
@@ -15,9 +20,13 @@
   </a>
 </p>
 
+---
+
+<!-- GIF BESAR (GAMBAR UTAMA) -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/rudrabarad/Gifs/master/developer.gif" width="600](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*tGHAV9yItR_FISNYM7HGqQ.gif)" />
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="550" />
 </p>
+
 ---
 
 ## 👨‍💻 About Me
