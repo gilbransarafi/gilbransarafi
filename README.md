@@ -15,6 +15,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/rudrabarad/Gifs/master/developer.gif" width="600](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*tGHAV9yItR_FISNYM7HGqQ.gif)" />
+</p>
 ---
 
 ## 👨‍💻 About Me
